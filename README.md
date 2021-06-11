@@ -20,7 +20,7 @@ Bank accounts can be added to with the `!cashout` command, which deposits all of
 Every round starts a new "game mode", which affects how the round will end or how the scoring is done for the winner(s). The main goal of the entire game is to collect points from winning game rounds, which can be seen using the `!scores` command.
 
 ###### Strategy
-There are many ways to become skilled in this game. Making *legit* trades that you would do in the market with real money is the last fucking on that list.
+There are many ways to become skilled in this game. Making *legit* trades that you would do in the market with real money is the last on that list.
 
 I know what you're thinking... "Can't I just register 500 accounts & have them all !trade and !send money and get RICH?" Yes, you can do that! But just know you are not going to be the first or the last to ever think of that.
 
@@ -80,6 +80,7 @@ This game can introduce lots of trolling & botting. Get creative & figure out wa
 	* `!trade ETH/DOGE *` trades all of your ETH to DOGE.
 
 ###### Future Concepts & Ideas
+* Completely ASNYCHRONOUS
 * Use multiple API keys to prevent rate limiting.
 * IRCCEX BlockChain - Keep an on-going ledger of every single transaction ever made in the channel. *(No idea what use it would have. Maybe a `!trades` command for recent history. The idea makes me laugh)*
 * Buying options - Spend a large sum of money on features like locking someone from trading for X amount of time (Charge Y per hour and max it to 24 hours), wallet spying, wallet bombing (sending a bunch of shitcoins), hindsight where you get private message alerts on a coins price changing (can be used whenever only once).
